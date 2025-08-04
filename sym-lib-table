@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RV1106G_EVB1_V11_20220401LX-altium-import")(type "KiCad")(uri "${KIPRJMOD}/RV1106G_EVB1_V11_20220401LX-altium-import.kicad_sym")(options "")(descr ""))
+)

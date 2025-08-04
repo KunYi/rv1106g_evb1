@@ -1,0 +1,3183 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2211b555-14d5-4030-a355-a224b821821c")
+	(paper "A4")
+	(lib_symbols
+		(symbol "*:root_0_RESISTOR_Dup1_*"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "通用厚膜电阻,3K,+/-1%,R0402,1/16W."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*R0402*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_RESISTOR_Dup1_*_1_0"
+				(polyline
+					(pts
+						(xy 1.778 -2.286) (xy 3.302 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 -5.334) (xy 3.302 -6.858)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.762) (xy 1.778 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -3.81) (xy 1.778 -5.334)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -6.858) (xy 2.54 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 2.54 2.54 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -10.16 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "*:root_0_mirrored_SW4P_5_*"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "KEY,SMT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*sw-5p*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_mirrored_SW4P_5_*_1_0"
+				(polyline
+					(pts
+						(xy -7.62 -0.762) (xy -4.572 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -6.35 -2.794)
+					(radius 0.762)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.572 0) (xy -3.048 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.572 -0.762) (xy -4.572 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 0) (xy -3.048 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.016 -2.794)
+					(radius 0.762)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy -7.62 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -7.62 180)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "*:root_1_RESISTOR_Dup1_*"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "通用厚膜电阻,100R,+/-5%,R0402,1/16W."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*R0402*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_1_RESISTOR_Dup1_*_1_0"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 3.302)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 3.302) (xy 2.286 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 1.778) (xy 3.81 3.302)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 3.302) (xy 5.334 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 1.778) (xy 6.858 3.302)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.858 3.302) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "*:root_3_DIODE BI_DIR TRIG_*"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1-Line, Bi-directional, Transient Voltage Suppressors.17.5pF."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*ESD0402*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_3_DIODE BI_DIR TRIG_*_1_0"
+				(polyline
+					(pts
+						(xy -3.81 -5.08) (xy -4.318 -5.842)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -5.08) (xy -2.54 -5.08) (xy -4.318 -2.54) (xy -0.762 -2.54) (xy -2.54 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 255 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -5.08) (xy -2.54 -5.08) (xy -0.762 -7.62) (xy -4.318 -7.62) (xy -2.54 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type color)
+						(color 0 0 255 1)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -7.62) (xy -2.54 -10.16)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -0.762 -4.318)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 2.54 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -12.7 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:ADCIN0_ARROW"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "ADCIN0"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'ADCIN0'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ADCIN0_ARROW_0_0"
+				(polyline
+					(pts
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "ADCIN0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:NPOR_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "NPOR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'NPOR'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NPOR_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "NPOR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:RECOVERY_ARROW"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "RECOVERY"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'RECOVERY'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RECOVERY_ARROW_0_0"
+				(polyline
+					(pts
+						(xy -0.635 -1.27) (xy 0.635 -1.27) (xy 0 -2.54) (xy -0.635 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "RECOVERY"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(bezier
+		(pts
+			(xy 125.73 121.1072) (xy 134.8482 121.1072) (xy 142.24 117.6956) (xy 142.24 113.4872)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 028b0ee8-9691-47da-b037-6d8303b81ffd)
+	)
+	(bezier
+		(pts
+			(xy 109.22 113.4872) (xy 109.22 117.6956) (xy 116.6117 121.1072) (xy 125.73 121.1072)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4e791f9e-1626-49ed-8d6e-484a4f485630)
+	)
+	(bezier
+		(pts
+			(xy 125.73 105.8672) (xy 116.6117 105.8672) (xy 109.22 109.2787) (xy 109.22 113.4872)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 592f2476-cae4-43c7-9e37-0897b9ead93c)
+	)
+	(bezier
+		(pts
+			(xy 142.24 113.4872) (xy 142.24 109.2787) (xy 134.8482 105.8672) (xy 125.73 105.8672)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid df7a82b1-95ae-4d4b-8dc9-a5b81fe10bb6)
+	)
+	(text "ADC=9"
+		(exclude_from_sim no)
+		(at 175.26 80.2132 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "3afedb57-f1e0-4737-8531-284bc3e0f3cf")
+	)
+	(text "0V"
+		(exclude_from_sim no)
+		(at 144.78 85.2932 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "d53d9c1a-8e58-411b-8834-28d04b4e9919")
+	)
+	(text "0.409V"
+		(exclude_from_sim no)
+		(at 144.78 97.9932 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "dfa6d286-2d68-4202-9993-2e68849c616f")
+	)
+	(text "Key Array"
+		(exclude_from_sim no)
+		(at 20.066 21.844 0)
+		(effects
+			(font
+				(size 2.667 2.667)
+				(thickness 0.5334)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ea6cc0da-712b-4cbd-b4d1-7afc04f7c72d")
+	)
+	(text "ADC=235"
+		(exclude_from_sim no)
+		(at 175.26 97.9932 0)
+		(effects
+			(font
+				(size 1.143 1.143)
+			)
+			(justify left bottom)
+		)
+		(uuid "f269c860-b415-4dd1-8365-bc26872723be")
+	)
+	(junction
+		(at 147.32 80.4672)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18852d34-8d72-4234-a496-d020af53a5cc")
+	)
+	(wire
+		(pts
+			(xy 147.32 80.4672) (xy 147.32 67.7672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "077820df-2d79-45cf-8fee-fdcc71743da5")
+	)
+	(wire
+		(pts
+			(xy 81.28 80.4672) (xy 111.76 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ccfc25e-914e-40a5-901b-7e8fd7ddae3a")
+	)
+	(wire
+		(pts
+			(xy 147.32 100.7872) (xy 147.32 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17404ccd-4f56-43c4-96af-226d3f885b39")
+	)
+	(wire
+		(pts
+			(xy 121.92 80.4672) (xy 111.76 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17c08483-bb14-47b5-9ce4-9e2e4557aa23")
+	)
+	(wire
+		(pts
+			(xy 147.32 118.5672) (xy 147.32 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19b5f0df-6319-46a1-81bf-e7fa004f13f0")
+	)
+	(wire
+		(pts
+			(xy 170.18 83.0072) (xy 193.04 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d45898c-de38-4b0f-bed8-53d18339ccf9")
+	)
+	(wire
+		(pts
+			(xy 147.32 83.0072) (xy 147.32 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26b7fc04-bc89-4137-a58b-a5d5d607599a")
+	)
+	(wire
+		(pts
+			(xy 193.04 98.2472) (xy 193.04 85.5472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29b74157-e3a9-415d-920a-7f9e1dcba661")
+	)
+	(wire
+		(pts
+			(xy 193.04 126.1872) (xy 193.04 121.1072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "461430bf-9203-4084-a6df-52efe3658fae")
+	)
+	(wire
+		(pts
+			(xy 96.52 83.0072) (xy 96.52 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9edd3b-79da-48f0-8652-41b866dae929")
+	)
+	(wire
+		(pts
+			(xy 193.04 98.2472) (xy 193.04 100.7872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f1bbf3d-f1e4-4b75-a0d0-65eb10d16245")
+	)
+	(wire
+		(pts
+			(xy 193.04 121.1072) (xy 170.18 121.1072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "627c90ad-af41-4fe4-aaed-5d11132af9b3")
+	)
+	(wire
+		(pts
+			(xy 193.04 100.7872) (xy 193.04 103.3272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6426eb22-b4af-4f1b-8f80-3ad9966a887e")
+	)
+	(wire
+		(pts
+			(xy 193.04 103.3272) (xy 170.18 103.3272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ef40579-267d-48bb-b134-af781705dfd1")
+	)
+	(wire
+		(pts
+			(xy 193.04 116.0272) (xy 170.18 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75c4e8ba-93f1-49b2-8e34-22ff63e0c9fb")
+	)
+	(wire
+		(pts
+			(xy 111.76 95.7072) (xy 111.76 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b99945a-d8a6-49a9-8525-c20469c9a49b")
+	)
+	(wire
+		(pts
+			(xy 193.04 118.5672) (xy 193.04 121.1072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8687d56f-668d-4cce-b88b-894444abed8d")
+	)
+	(wire
+		(pts
+			(xy 193.04 85.5472) (xy 193.04 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a297fd5-2415-4206-bbd3-3e64e1e05552")
+	)
+	(wire
+		(pts
+			(xy 96.52 118.5672) (xy 96.52 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93152a78-5341-4097-831b-bf4ac041f170")
+	)
+	(wire
+		(pts
+			(xy 193.04 80.4672) (xy 170.18 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c4b38d3-4a70-40f4-b965-7816c37bdb84")
+	)
+	(wire
+		(pts
+			(xy 157.48 118.5672) (xy 147.32 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c5e374c-d80f-45fd-967b-32422a8f0770")
+	)
+	(wire
+		(pts
+			(xy 157.48 80.4672) (xy 147.32 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a25a8bbe-fe14-45ba-8688-789e0e5fcc3f")
+	)
+	(wire
+		(pts
+			(xy 157.48 116.0272) (xy 147.32 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5982866-fe98-4d73-b3af-b8729121caf0")
+	)
+	(wire
+		(pts
+			(xy 193.04 100.7872) (xy 170.18 100.7872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5aaa6f9-0e2f-4661-aee8-628798ef2fa3")
+	)
+	(wire
+		(pts
+			(xy 157.48 83.0072) (xy 147.32 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a63f46f4-a217-4cdb-9054-5bd8292949b5")
+	)
+	(wire
+		(pts
+			(xy 96.52 136.3472) (xy 96.52 133.8072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a769fa1d-7e61-4179-9153-31b419d8d266")
+	)
+	(wire
+		(pts
+			(xy 81.28 116.0272) (xy 121.92 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0dbb2b0-46cd-48ac-8723-e1b635e2f5e5")
+	)
+	(wire
+		(pts
+			(xy 96.52 100.7872) (xy 96.52 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc515b68-00df-4b90-bd7f-1e64c2e9973d")
+	)
+	(wire
+		(pts
+			(xy 193.04 103.3272) (xy 193.04 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdaa20f4-d0d0-47e6-a928-dc0b5206c701")
+	)
+	(wire
+		(pts
+			(xy 147.32 116.0272) (xy 134.62 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be86f59a-0e13-4254-92c2-e30b73b77c9a")
+	)
+	(wire
+		(pts
+			(xy 193.04 83.0072) (xy 193.04 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1e20c20-466f-4312-96da-1eea98cfc220")
+	)
+	(wire
+		(pts
+			(xy 147.32 80.4672) (xy 134.62 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5f4d418-56da-4f64-8e96-8d94780106d3")
+	)
+	(wire
+		(pts
+			(xy 193.04 118.5672) (xy 170.18 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbe69788-299e-4acf-bda8-0d46950d86b5")
+	)
+	(wire
+		(pts
+			(xy 147.32 67.7672) (xy 160.02 67.7672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d76ae728-d849-4feb-be97-a9c91acfe55e")
+	)
+	(wire
+		(pts
+			(xy 111.76 98.2472) (xy 157.48 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd02b6c6-611f-415d-9019-ff4d6d737971")
+	)
+	(wire
+		(pts
+			(xy 157.48 100.7872) (xy 147.32 100.7872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb89356f-d36b-4207-9680-43449ec76e86")
+	)
+	(wire
+		(pts
+			(xy 170.18 98.2472) (xy 193.04 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecdd000a-9714-40b2-ab6f-d0e8b09f702d")
+	)
+	(wire
+		(pts
+			(xy 193.04 116.0272) (xy 193.04 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef160c1f-e8d5-4601-a4ec-d84815d9600c")
+	)
+	(wire
+		(pts
+			(xy 111.76 80.4672) (xy 111.76 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0a59a64-fda2-443f-8bf5-190e11ab54da")
+	)
+	(wire
+		(pts
+			(xy 193.04 85.5472) (xy 170.18 85.5472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc562e70-e02e-4018-b877-2b64a61f74c3")
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:RECOVERY_ARROW")
+		(at 160.02 67.7672 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "025fe1ec-cf5c-4d23-93a7-e92a05555627")
+		(property "Reference" "#PWR?"
+			(at 160.02 67.7672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "RECOVERY"
+			(at 163.83 67.7672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 67.7672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 67.7672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 67.7672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "e3f619e5-a23c-4b77-b4ec-89a7ac4435e6")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:ADCIN0_ARROW")
+		(at 81.28 80.4672 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0db5e1ae-66fc-4222-a721-d414ee59ff55")
+		(property "Reference" "#PWR?"
+			(at 81.28 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "ADCIN0"
+			(at 77.47 80.4672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c0ce690d-8823-4791-bc69-161d9f45d1b3")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_3_DIODE BI_DIR TRIG_*")
+		(at 99.06 85.5472 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b5448b9-3a86-4b54-9fe6-4ca172c0055b")
+		(property "Reference" "ED9200"
+			(at 99.06 90.6272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ESD5451N"
+			(at 99.06 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ESD0402"
+			(at 99.06 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1-Line, Bi-directional, Transient Voltage Suppressors.17.5pF."
+			(at 99.06 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "ESD0402"
+			(at 99.06 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "FILENAME" ""
+			(at 99.06 85.5472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATED BY" "JJJ"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER PN" "ESD5451N"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WillSemi(韦尔半导体)"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART TYPE" "ESD_TVS"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PRIORITY" "A"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RK PN" "ESD5451N"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac9d96c5-6b0a-4826-a2dd-de313fba396e")
+		)
+		(pin "2"
+			(uuid "7d042c5a-877b-4712-a5e6-5753233d50f4")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "ED9200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_0_mirrored_SW4P_5_*")
+		(at 167.64 95.7072 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "505a6628-8eb4-4340-ba78-e7a0d6ad3da0")
+		(property "Reference" "SW9201"
+			(at 157.48 90.6272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "MENU"
+			(at 157.48 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "sw-5p"
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "KEY,SMT"
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "sw-5p"
+			(at 157.48 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "ab8282a1-dbad-4932-8eea-d2d918ce14fb")
+		)
+		(pin "2"
+			(uuid "383451a3-e07f-4fc8-a328-160f6601ce96")
+		)
+		(pin "4"
+			(uuid "119069bf-4cfd-436d-8cd6-ee2406090e25")
+		)
+		(pin "3"
+			(uuid "e051959c-70bb-40b8-b0d2-5af20a7772ef")
+		)
+		(pin "5"
+			(uuid "5d0a3519-becf-44e7-8f65-52f6390fcf51")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "SW9201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 96.52 136.3472 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5448db1d-cb12-4e8f-95eb-02a179371cf2")
+		(property "Reference" "#PWR?"
+			(at 96.52 136.3472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 142.6972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 136.3472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 136.3472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 136.3472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "cf21fa2d-8b0e-4746-9c82-1558aa0f8e57")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 193.04 126.1872 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6108a630-8e19-4318-be24-a2b7ea3e7055")
+		(property "Reference" "#PWR?"
+			(at 193.04 126.1872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 193.04 132.5372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 126.1872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 126.1872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 126.1872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "065da8e5-6416-453b-8a4b-86932349310f")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_3_DIODE BI_DIR TRIG_*")
+		(at 99.06 121.1072 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "638c7c83-4d99-46dc-baea-b443772c0a2c")
+		(property "Reference" "ED9201"
+			(at 99.06 126.1872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "ESD5451N"
+			(at 99.06 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "ESD0402"
+			(at 99.06 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1-Line, Bi-directional, Transient Voltage Suppressors.17.5pF."
+			(at 99.06 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "ESD0402"
+			(at 99.06 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "FILENAME" ""
+			(at 99.06 121.1072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATED BY" "JJJ"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER PN" "ESD5451N"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "WillSemi(韦尔半导体)"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART TYPE" "ESD_TVS"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PRIORITY" "A"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RK PN" "ESD5451N"
+			(at 5.08 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e469d6e8-d952-429b-b659-44c8cd24e500")
+		)
+		(pin "2"
+			(uuid "e6b32600-2a37-4207-b034-0ad0b27e5b93")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "ED9201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:NPOR_CIRCLE")
+		(at 81.28 116.0272 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "693b476c-79e2-4dd2-b36e-160d251fb88d")
+		(property "Reference" "#PWR?"
+			(at 81.28 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "NPOR"
+			(at 77.47 116.0272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "33b5316b-82b5-4ebc-aa88-ea681faae925")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_1_RESISTOR_Dup1_*")
+		(at 124.46 83.0072 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b731fc4-9250-42e1-9ab9-0729046b9a9f")
+		(property "Reference" "R9200"
+			(at 111.76 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100R"
+			(at 124.46 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "R0402"
+			(at 124.46 83.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 83.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "通用厚膜电阻,100R,+/-5%,R0402,1/16W."
+			(at 124.46 83.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "R0402"
+			(at 137.16 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 129.54 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "RK PN" "RC0402JR-07100RL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PRIORITY" "A"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART TYPE" "通用厚膜电阻"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WATTAGE" "1/16W"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER PN" "RC0402JR-07100RL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATED BY" "YTL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58e99025-6c96-48ed-8620-813f0ae09094")
+		)
+		(pin "1"
+			(uuid "5d1bc5de-7989-4b6b-b65c-ccdb7469f955")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "R9200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_0_mirrored_SW4P_5_*")
+		(at 167.64 113.4872 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a416745f-e3e5-43a3-a92d-4bb47557438e")
+		(property "Reference" "SW9204"
+			(at 157.48 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "RESET"
+			(at 157.48 110.9472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "sw-5p"
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "KEY,SMT"
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "sw-5p"
+			(at 157.48 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "e9272653-4f19-453c-9063-d80edd2f7cff")
+		)
+		(pin "2"
+			(uuid "9f464eee-70db-424e-a99f-5d5d810f33d5")
+		)
+		(pin "4"
+			(uuid "df4c2b59-85d1-4dbf-8547-d2b899e0b297")
+		)
+		(pin "3"
+			(uuid "e04353ba-bd21-4335-84c2-f47b2a65715f")
+		)
+		(pin "5"
+			(uuid "1e452941-2dfc-4e86-aa40-5044451cabbd")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "SW9204")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_0_RESISTOR_Dup1_*")
+		(at 109.22 85.5472 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a80f7cd2-bbc3-47b9-890f-e754ad066653")
+		(property "Reference" "R9201"
+			(at 114.3 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "3K"
+			(at 114.3 90.6272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "R0402"
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "通用厚膜电阻,3K,+/-1%,R0402,1/16W."
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "R0402"
+			(at 114.3 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TOLERANCE" "1%"
+			(at 114.3 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "RK PN" "RC0402FR-073KL"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PRIORITY" "A"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART TYPE" "通用厚膜电阻"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WATTAGE" "1/16W"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER PN" "RC0402FR-073KL"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATED BY" "YTL"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4846790d-e2ac-4d84-951f-3b6e4cfcad84")
+		)
+		(pin "1"
+			(uuid "493a853e-f905-441c-ac06-a8e8cb00f7b0")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "R9201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_0_mirrored_SW4P_5_*")
+		(at 167.64 77.9272 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5fe5456-a72c-4c17-99f9-deb7b901d91a")
+		(property "Reference" "SW9200"
+			(at 157.48 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "RECOVERY"
+			(at 157.48 75.3872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "sw-5p"
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "KEY,SMT"
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "sw-5p"
+			(at 157.48 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "9d9803f1-d28f-47a8-b003-3987b9e1c37e")
+		)
+		(pin "2"
+			(uuid "db4e3b53-3759-4ef5-bc30-6446b99ffad2")
+		)
+		(pin "4"
+			(uuid "b4d49c16-d87d-4a8b-a5fc-b477ac3f8b07")
+		)
+		(pin "3"
+			(uuid "40e53ccb-c4bc-406c-b0b2-9a98a699894f")
+		)
+		(pin "5"
+			(uuid "768d4c8f-f461-4d05-b30b-f0332091a5a3")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "SW9200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 96.52 100.7872 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d19ea4ce-beb1-44d5-8ce6-8221d6630909")
+		(property "Reference" "#PWR?"
+			(at 96.52 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 107.1372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "818db244-0a00-49a7-a91a-62c3b9ba4a22")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_1_RESISTOR_Dup1_*")
+		(at 124.46 118.5672 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f92ddc75-e8e5-4ce2-9c50-a03209b10010")
+		(property "Reference" "R9202"
+			(at 111.76 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100R"
+			(at 124.46 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "R0402"
+			(at 124.46 118.5672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 118.5672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "通用厚膜电阻,100R,+/-5%,R0402,1/16W."
+			(at 124.46 118.5672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "R0402"
+			(at 137.16 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TOLERANCE" "5%"
+			(at 129.54 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "CREATED BY" "YTL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER PN" "RC0402JR-07100RL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WATTAGE" "1/16W"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART TYPE" "通用厚膜电阻"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PRIORITY" "A"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "RK PN" "RC0402JR-07100RL"
+			(at 0 215.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d67e747d-29e7-408c-8b05-682f8f1c0843")
+		)
+		(pin "2"
+			(uuid "7f7ebc7b-8ef9-44ff-a970-75e5d552b367")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/f7c15d45-eb06-4e23-84c5-d51f231e9a51"
+					(reference "R9202")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

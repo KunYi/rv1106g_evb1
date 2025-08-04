@@ -1,0 +1,8603 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "309aeaf7-793b-4d8b-8a7a-b2a694c36ce4")
+	(paper "A4")
+	(lib_symbols
+		(symbol "*:root_0_PowerMeasurement_6_*"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*CNN60_0R80_B406*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_PowerMeasurement_6_*_1_0"
+				(polyline
+					(pts
+						(xy 9.398 -0.254) (xy 9.398 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.398 -86.36) (xy 9.398 -87.63)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.398 -86.36) (xy 17.526 -86.36)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.668 -7.112)
+					(end 10.16 -8.382)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -9.652)
+					(end 10.16 -10.922)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -12.192)
+					(end 10.16 -13.462)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -14.732)
+					(end 10.16 -16.002)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -17.272)
+					(end 10.16 -18.542)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -19.812)
+					(end 10.16 -21.082)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -22.352)
+					(end 10.16 -23.622)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -24.892)
+					(end 10.16 -26.162)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -27.432)
+					(end 10.16 -28.702)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -29.972)
+					(end 10.16 -31.242)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -32.512)
+					(end 10.16 -33.782)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -35.052)
+					(end 10.16 -36.322)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -37.592)
+					(end 10.16 -38.862)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -40.132)
+					(end 10.16 -41.402)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -42.672)
+					(end 10.16 -43.942)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -45.212)
+					(end 10.16 -46.482)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -47.752)
+					(end 10.16 -49.022)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -50.292)
+					(end 10.16 -51.562)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -52.832)
+					(end 10.16 -54.102)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -55.372)
+					(end 10.16 -56.642)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -57.912)
+					(end 10.16 -59.182)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -60.452)
+					(end 10.16 -61.722)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -62.992)
+					(end 10.16 -64.262)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -65.532)
+					(end 10.16 -66.802)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -68.072)
+					(end 10.16 -69.342)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -70.612)
+					(end 10.16 -71.882)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -73.152)
+					(end 10.16 -74.422)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -75.692)
+					(end 10.16 -76.962)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -78.232)
+					(end 10.16 -79.502)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 10.668 -80.772)
+					(end 10.16 -82.042)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 11.684 0)
+					(end 9.398 -1.27)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 11.684 -87.63)
+					(end 9.398 -88.9)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.684 -88.9) (xy 25.146 -88.9)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 14.224 -1.27) (xy 24.384 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 15.24 -5.08)
+					(end 10.16 -83.82)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -7.112)
+					(end 14.732 -8.382)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -9.652)
+					(end 14.732 -10.922)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -12.192)
+					(end 14.732 -13.462)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -14.732)
+					(end 14.732 -16.002)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -17.272)
+					(end 14.732 -18.542)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -19.812)
+					(end 14.732 -21.082)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -22.352)
+					(end 14.732 -23.622)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -24.892)
+					(end 14.732 -26.162)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -27.432)
+					(end 14.732 -28.702)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -29.972)
+					(end 14.732 -31.242)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -32.512)
+					(end 14.732 -33.782)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -35.052)
+					(end 14.732 -36.322)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -37.592)
+					(end 14.732 -38.862)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -40.132)
+					(end 14.732 -41.402)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -42.672)
+					(end 14.732 -43.942)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -45.212)
+					(end 14.732 -46.482)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -47.752)
+					(end 14.732 -49.022)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -50.292)
+					(end 14.732 -51.562)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -52.832)
+					(end 14.732 -54.102)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -55.372)
+					(end 14.732 -56.642)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -57.912)
+					(end 14.732 -59.182)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -60.452)
+					(end 14.732 -61.722)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -62.992)
+					(end 14.732 -64.262)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -65.532)
+					(end 14.732 -66.802)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -68.072)
+					(end 14.732 -69.342)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -70.612)
+					(end 14.732 -71.882)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -73.152)
+					(end 14.732 -74.422)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -75.692)
+					(end 14.732 -76.962)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -78.232)
+					(end 14.732 -79.502)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 15.24 -80.772)
+					(end 14.732 -82.042)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 16.002 -4.318)
+					(end 9.398 -84.836)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.526 -2.54) (xy 9.398 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.526 -2.54) (xy 17.526 -86.36)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 24.384 -1.27) (xy 23.368 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 24.384 -1.27) (xy 23.368 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 27.94 0)
+					(end 0 -88.9)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 11 255 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -2.54 -7.62 0)
+					(length 2.54)
+					(name "GND1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -10.16 0)
+					(length 2.54)
+					(name "CH0+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -12.7 0)
+					(length 2.54)
+					(name "CH0-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -15.24 0)
+					(length 2.54)
+					(name "GND3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -17.78 0)
+					(length 2.54)
+					(name "CH2+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -20.32 0)
+					(length 2.54)
+					(name "CH2-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -22.86 0)
+					(length 2.54)
+					(name "GND5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -25.4 0)
+					(length 2.54)
+					(name "CH4+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -27.94 0)
+					(length 2.54)
+					(name "CH4-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -30.48 0)
+					(length 2.54)
+					(name "GND7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -33.02 0)
+					(length 2.54)
+					(name "CH6+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -35.56 0)
+					(length 2.54)
+					(name "CH6-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -38.1 0)
+					(length 2.54)
+					(name "GND9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -40.64 0)
+					(length 2.54)
+					(name "CH8+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -43.18 0)
+					(length 2.54)
+					(name "CH8-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -45.72 0)
+					(length 2.54)
+					(name "CH10+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -48.26 0)
+					(length 2.54)
+					(name "CH10-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -50.8 0)
+					(length 2.54)
+					(name "GND11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -53.34 0)
+					(length 2.54)
+					(name "CH12+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -55.88 0)
+					(length 2.54)
+					(name "CH12-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -58.42 0)
+					(length 2.54)
+					(name "GND13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -60.96 0)
+					(length 2.54)
+					(name "CH14+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "43"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -63.5 0)
+					(length 2.54)
+					(name "CH14-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -66.04 0)
+					(length 2.54)
+					(name "GND15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -68.58 0)
+					(length 2.54)
+					(name "CH16+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -71.12 0)
+					(length 2.54)
+					(name "CH16-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "51"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -73.66 0)
+					(length 2.54)
+					(name "GND17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "53"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -76.2 0)
+					(length 2.54)
+					(name "CH18+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "55"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -78.74 0)
+					(length 2.54)
+					(name "CH18-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "57"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -81.28 0)
+					(length 2.54)
+					(name "GND19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "59"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 270)
+					(length 2.54)
+					(name "62"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "62"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -91.44 90)
+					(length 2.54)
+					(name "61"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "61"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -7.62 180)
+					(length 2.54)
+					(name "GND2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -10.16 180)
+					(length 2.54)
+					(name "CH1+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -12.7 180)
+					(length 2.54)
+					(name "CH1-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -15.24 180)
+					(length 2.54)
+					(name "GND4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -17.78 180)
+					(length 2.54)
+					(name "CH3+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -20.32 180)
+					(length 2.54)
+					(name "CH3-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -22.86 180)
+					(length 2.54)
+					(name "GND6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -25.4 180)
+					(length 2.54)
+					(name "CH5+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -27.94 180)
+					(length 2.54)
+					(name "CH5-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -30.48 180)
+					(length 2.54)
+					(name "GND8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -33.02 180)
+					(length 2.54)
+					(name "CH7+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -35.56 180)
+					(length 2.54)
+					(name "CH7-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -38.1 180)
+					(length 2.54)
+					(name "GND10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -40.64 180)
+					(length 2.54)
+					(name "CH9+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -43.18 180)
+					(length 2.54)
+					(name "CH9-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -45.72 180)
+					(length 2.54)
+					(name "CH11+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -48.26 180)
+					(length 2.54)
+					(name "CH11-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -50.8 180)
+					(length 2.54)
+					(name "GND12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -53.34 180)
+					(length 2.54)
+					(name "CH13+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -55.88 180)
+					(length 2.54)
+					(name "CH13-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -58.42 180)
+					(length 2.54)
+					(name "GND14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -60.96 180)
+					(length 2.54)
+					(name "CH15+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -63.5 180)
+					(length 2.54)
+					(name "CH15-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -66.04 180)
+					(length 2.54)
+					(name "GND16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -68.58 180)
+					(length 2.54)
+					(name "CH17+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "50"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -71.12 180)
+					(length 2.54)
+					(name "CH17-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "52"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -73.66 180)
+					(length 2.54)
+					(name "GND18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "54"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -76.2 180)
+					(length 2.54)
+					(name "NC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "56"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -78.74 180)
+					(length 2.54)
+					(name "NC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "58"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -81.28 180)
+					(length 2.54)
+					(name "DIR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "60"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD1V8_CODEC_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "AVDD1V8_CODEC"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'AVDD1V8_CODEC'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AVDD1V8_CODEC_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "AVDD1V8_CODEC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD1V8_PLL_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "AVDD1V8_PLL"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'AVDD1V8_PLL'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AVDD1V8_PLL_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "AVDD1V8_PLL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD3V3_ETH_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "AVDD3V3_ETH"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'AVDD3V3_ETH'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AVDD3V3_ETH_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "AVDD3V3_ETH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'GND'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_POWER_GROUND_0_0"
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -3.302) (xy 1.778 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -4.064) (xy 1.016 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.826) (xy 0.254 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC12V_DCIN_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC12V_DCIN"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC12V_DCIN'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC12V_DCIN_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC12V_DCIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC12V_DCIN_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC12V_DCIN_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC12V_DCIN_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC12V_DCIN_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC12V_DCIN_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_CODEC_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC1V8_CODEC"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC1V8_CODEC'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC1V8_CODEC_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC1V8_CODEC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_OTP_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC1V8_OTP"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC1V8_OTP'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC1V8_OTP_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC1V8_OTP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_USB_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC1V8_USB"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC1V8_USB'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC1V8_USB_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC1V8_USB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_VCCIO7/MIPI_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC1V8_VCCIO7/MIPI"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC1V8_VCCIO7/MIPI'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC1V8_VCCIO7/MIPI_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC1V8_VCCIO7/MIPI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_PMUIO_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC3V3_PMUIO"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC3V3_PMUIO'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC3V3_PMUIO_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC3V3_PMUIO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_RTC_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC3V3_RTC"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC3V3_RTC'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC3V3_RTC_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC3V3_RTC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_USB_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC3V3_USB"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC3V3_USB'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC3V3_USB_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC3V3_USB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_VCCIO1_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC3V3_VCCIO1"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC3V3_VCCIO1'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC3V3_VCCIO1_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC3V3_VCCIO1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC5V0_SYS_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC5V0_SYS"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC5V0_SYS'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC5V0_SYS_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC5V0_SYS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC5V0_SYS_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC5V0_SYS_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC5V0_SYS_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC5V0_SYS_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC5V0_SYS_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_1V8"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_1V8'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_1V8_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_1V8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_1V8_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_1V8_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_1V8_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_1V8_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_3V3"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_3V3'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_3V3_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_3V3_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_3V3_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_3V3_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_3V3_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_DDR_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_DDR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_DDR'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_DDR_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_DDR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_DDR_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_DDR_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_DDR_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_DDR_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_DDR_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_RTC_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC_RTC"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VCC_RTC'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_RTC_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VCC_RTC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VDD0V9_PMUIO_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD0V9_PMUIO"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VDD0V9_PMUIO'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD0V9_PMUIO_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VDD0V9_PMUIO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_0V9_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD_0V9"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VDD_0V9'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD_0V9_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VDD_0V9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_0V9_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD_0V9_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VDD_0V9_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD_0V9_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VDD_0V9_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_ARM_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD_ARM"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VDD_ARM'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD_ARM_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VDD_ARM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_ARM_P_CIRCLE"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD_ARM_P"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name 'VDD_ARM_P'"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "power-flag"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD_ARM_P_CIRCLE_0_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.905)
+					(radius 0.635)
+					(stroke
+						(width 0.127)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "VDD_ARM_P"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Power Test"
+		(exclude_from_sim no)
+		(at 16.002 22.352 0)
+		(effects
+			(font
+				(size 2.667 2.667)
+				(thickness 0.5334)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "28bb59ca-affc-4b59-bfda-2342e845c251")
+	)
+	(no_connect
+		(at 121.92 138.8872)
+		(uuid "12b713a2-a141-41b3-81ed-3273b305c21f")
+	)
+	(no_connect
+		(at 121.92 136.3472)
+		(uuid "3fe01d80-fb80-4a0e-9060-505acb7ed209")
+	)
+	(no_connect
+		(at 154.94 136.3472)
+		(uuid "48f04147-48c8-4a66-9b69-c7bb360c42fe")
+	)
+	(no_connect
+		(at 154.94 138.8872)
+		(uuid "980722c3-7277-42de-86ea-10fd5339cba8")
+	)
+	(no_connect
+		(at 154.94 141.4272)
+		(uuid "c32d8e90-7d78-4056-abc2-5ff5b89deb3c")
+	)
+	(wire
+		(pts
+			(xy 114.3 126.1872) (xy 114.3 133.8072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02283f7e-97d4-46c2-9384-6e7ddee5ff32")
+	)
+	(wire
+		(pts
+			(xy 121.92 93.1672) (xy 109.22 93.1672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "035b4eba-5a82-4555-a7c3-221fade91f0d")
+	)
+	(wire
+		(pts
+			(xy 121.92 80.4672) (xy 109.22 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f858299-5fb6-4f2a-97f7-c657b5d91a66")
+	)
+	(wire
+		(pts
+			(xy 121.92 105.8672) (xy 109.22 105.8672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12b18242-aac4-42ce-a516-5edf57b2bc86")
+	)
+	(wire
+		(pts
+			(xy 167.64 77.9272) (xy 154.94 77.9272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13a97ae0-fc27-4d72-ac1a-e041a649b86c")
+	)
+	(wire
+		(pts
+			(xy 121.92 108.4072) (xy 109.22 108.4072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bf72f01-5733-45fb-8d30-e5c631103e85")
+	)
+	(wire
+		(pts
+			(xy 167.64 85.5472) (xy 154.94 85.5472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c88ff99-448c-4659-bae4-f6a8bde891a2")
+	)
+	(wire
+		(pts
+			(xy 114.3 75.3872) (xy 121.92 75.3872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f670902-6478-454d-bcf5-a17ce473a763")
+	)
+	(wire
+		(pts
+			(xy 121.92 95.7072) (xy 109.22 95.7072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2513b1dc-04ac-4354-a2ab-a5af488591bb")
+	)
+	(wire
+		(pts
+			(xy 154.94 110.9472) (xy 162.56 110.9472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a763182-b10a-49da-aa4c-ceb336ae01bb")
+	)
+	(wire
+		(pts
+			(xy 162.56 126.1872) (xy 162.56 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b2374dd-e308-4d03-bafb-d34dc9ea550c")
+	)
+	(wire
+		(pts
+			(xy 162.56 75.3872) (xy 162.56 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ba3411f-2016-48aa-9b01-1439d6fb9ffd")
+	)
+	(wire
+		(pts
+			(xy 167.64 121.1072) (xy 154.94 121.1072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a12692-882d-405a-a8fc-7e4146a631e8")
+	)
+	(wire
+		(pts
+			(xy 121.92 72.8472) (xy 109.22 72.8472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38be8d92-9620-4077-9603-558651d901b1")
+	)
+	(wire
+		(pts
+			(xy 114.3 83.0072) (xy 114.3 90.6272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a8d73eb-2c09-4c4c-ba16-e206afe1a504")
+	)
+	(wire
+		(pts
+			(xy 114.3 90.6272) (xy 114.3 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b274b25-78e8-4a8b-a6ab-b2b4e6b449d5")
+	)
+	(wire
+		(pts
+			(xy 162.56 118.5672) (xy 162.56 110.9472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c63d8c4-5a5d-4f72-bde3-885cc1add222")
+	)
+	(wire
+		(pts
+			(xy 121.92 121.1072) (xy 109.22 121.1072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44273ace-0520-4f23-bd24-239cb8a9bacd")
+	)
+	(wire
+		(pts
+			(xy 167.64 105.8672) (xy 154.94 105.8672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c610349-598e-400e-8ff3-8de2f68b24b3")
+	)
+	(wire
+		(pts
+			(xy 121.92 118.5672) (xy 114.3 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cffdc17-fa68-43f3-980c-c5016608b7eb")
+	)
+	(wire
+		(pts
+			(xy 154.94 67.7672) (xy 162.56 67.7672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55cbc53c-6006-43fa-89de-25740e7f6bc9")
+	)
+	(wire
+		(pts
+			(xy 167.64 70.3072) (xy 154.94 70.3072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57d6da4a-57de-49f8-b4aa-d6be1a042808")
+	)
+	(wire
+		(pts
+			(xy 121.92 103.3272) (xy 109.22 103.3272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ae186c4-01ef-4480-9120-822c237f548f")
+	)
+	(wire
+		(pts
+			(xy 162.56 83.0072) (xy 162.56 90.6272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b8c63c5-9950-46ab-8b15-cadefae8a619")
+	)
+	(wire
+		(pts
+			(xy 121.92 90.6272) (xy 114.3 90.6272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "615415d4-b2b3-4ef9-893f-15534236656e")
+	)
+	(wire
+		(pts
+			(xy 114.3 118.5672) (xy 114.3 126.1872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6343bc5c-1f41-40eb-b403-f9eb382da4ab")
+	)
+	(wire
+		(pts
+			(xy 121.92 100.7872) (xy 109.22 100.7872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67b38c4b-07e4-42d6-8509-6a838691d75e")
+	)
+	(wire
+		(pts
+			(xy 167.64 123.6472) (xy 154.94 123.6472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67c20383-8762-4d0b-9053-be467095b3df")
+	)
+	(wire
+		(pts
+			(xy 162.56 118.5672) (xy 154.94 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69f64cd8-bddd-4713-b247-a50fae3729f5")
+	)
+	(wire
+		(pts
+			(xy 162.56 75.3872) (xy 154.94 75.3872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73eef14a-d444-459f-9145-0bbfd8a06562")
+	)
+	(wire
+		(pts
+			(xy 167.64 72.8472) (xy 154.94 72.8472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78e3f798-5f29-43d4-b0b9-e90f5aa1bdfa")
+	)
+	(wire
+		(pts
+			(xy 121.92 83.0072) (xy 114.3 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79198bc7-39d1-478f-8ce7-730190fb0938")
+	)
+	(wire
+		(pts
+			(xy 162.56 83.0072) (xy 154.94 83.0072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81898000-8f09-4559-b441-c6f5dff10fb1")
+	)
+	(wire
+		(pts
+			(xy 121.92 85.5472) (xy 109.22 85.5472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8653f2c8-a015-4177-aa09-226ed35b7683")
+	)
+	(wire
+		(pts
+			(xy 114.3 83.0072) (xy 114.3 75.3872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8679a234-1554-4206-91a7-5e40dc380343")
+	)
+	(wire
+		(pts
+			(xy 167.64 116.0272) (xy 154.94 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89e232b2-f191-4c8b-bda8-a7c22c33d44b")
+	)
+	(wire
+		(pts
+			(xy 114.3 98.2472) (xy 114.3 110.9472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a1e0387-8009-4cec-9455-c3a062b162bb")
+	)
+	(wire
+		(pts
+			(xy 121.92 131.2672) (xy 109.22 131.2672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e9f834a-b8a7-4c46-b5ac-713739562394")
+	)
+	(wire
+		(pts
+			(xy 121.92 98.2472) (xy 114.3 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94706e7b-a232-4053-9a92-805124be444a")
+	)
+	(wire
+		(pts
+			(xy 121.92 110.9472) (xy 114.3 110.9472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98ab1a55-006b-43c7-900b-e8faeb6d67d5")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.6272) (xy 154.94 90.6272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99a8dc81-9800-4dbf-9393-d802617f11ef")
+	)
+	(wire
+		(pts
+			(xy 121.92 133.8072) (xy 114.3 133.8072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3ee4a55-ee1b-4a63-b58d-e0c8d8c70bee")
+	)
+	(wire
+		(pts
+			(xy 167.64 108.4072) (xy 154.94 108.4072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a43c9e95-5cee-4dd7-a81c-4262c9b8e88d")
+	)
+	(wire
+		(pts
+			(xy 121.92 141.4272) (xy 114.3 141.4272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a79708d1-c46d-426e-a4d6-c88043b728e6")
+	)
+	(wire
+		(pts
+			(xy 134.62 57.6072) (xy 134.62 52.5272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e97096-5ef7-44e8-956d-990ab6d2fcb2")
+	)
+	(wire
+		(pts
+			(xy 162.56 98.2472) (xy 154.94 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a900e370-9b25-4d3e-a38e-5aa18fdab419")
+	)
+	(wire
+		(pts
+			(xy 167.64 128.7272) (xy 154.94 128.7272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa6b1f7c-3f86-4dd9-8a9e-58b6c439a3f9")
+	)
+	(wire
+		(pts
+			(xy 162.56 154.1272) (xy 162.56 133.8072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad14ef96-d822-4b13-863e-1df5fd9b01ad")
+	)
+	(wire
+		(pts
+			(xy 167.64 93.1672) (xy 154.94 93.1672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea9f79f-06b0-4f14-b826-0d6e42e4d88c")
+	)
+	(wire
+		(pts
+			(xy 114.3 110.9472) (xy 114.3 118.5672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aec6f3ca-78ef-4fef-82ec-2588cc5429e3")
+	)
+	(wire
+		(pts
+			(xy 121.92 88.0872) (xy 109.22 88.0872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b118a335-7572-4d1e-b882-beb9dfa115a1")
+	)
+	(wire
+		(pts
+			(xy 167.64 103.3272) (xy 154.94 103.3272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ad7bda-dda9-4fe9-aaa2-f01d6ea43d2f")
+	)
+	(wire
+		(pts
+			(xy 121.92 123.6472) (xy 109.22 123.6472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b52fb957-b865-464f-8630-edd7227af656")
+	)
+	(wire
+		(pts
+			(xy 121.92 128.7272) (xy 109.22 128.7272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b66410d9-2187-424f-950e-efdc69d16bc5")
+	)
+	(wire
+		(pts
+			(xy 167.64 88.0872) (xy 154.94 88.0872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be24692f-169a-4c18-987a-7cd4cdc7aa40")
+	)
+	(wire
+		(pts
+			(xy 121.92 77.9272) (xy 109.22 77.9272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf59aaae-7b9e-47b5-8bb4-c99a45dfdef6")
+	)
+	(wire
+		(pts
+			(xy 167.64 80.4672) (xy 154.94 80.4672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c613a29f-6e90-4a94-9d76-7030e30d146b")
+	)
+	(wire
+		(pts
+			(xy 167.64 131.2672) (xy 154.94 131.2672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c742e60f-b6a8-4437-bc2c-96cc38c135ce")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.6272) (xy 162.56 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c84029b9-9d9a-4e12-9dec-cc0c42cfa959")
+	)
+	(wire
+		(pts
+			(xy 121.92 67.7672) (xy 114.3 67.7672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c95e2667-ba79-4840-85a8-1b6353f3f67b")
+	)
+	(wire
+		(pts
+			(xy 114.3 67.7672) (xy 114.3 75.3872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca1a3129-8ff9-4624-a3a9-b0b093cb2e2c")
+	)
+	(wire
+		(pts
+			(xy 162.56 110.9472) (xy 162.56 98.2472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caf3d65a-63eb-4ffa-bb05-d96477f3034e")
+	)
+	(wire
+		(pts
+			(xy 121.92 113.4872) (xy 109.22 113.4872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cde51f4f-d4f8-4469-96d5-e7f84c6cb6f4")
+	)
+	(wire
+		(pts
+			(xy 134.62 154.1272) (xy 134.62 151.5872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1d7b3dd-b056-42cd-9d62-cffb16291955")
+	)
+	(wire
+		(pts
+			(xy 114.3 133.8072) (xy 114.3 141.4272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d39cf048-9bbe-462b-b098-22dd154fee10")
+	)
+	(wire
+		(pts
+			(xy 162.56 67.7672) (xy 162.56 75.3872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4e7315d-afb5-480d-8d02-8970d0ab02b9")
+	)
+	(wire
+		(pts
+			(xy 162.56 133.8072) (xy 154.94 133.8072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da7e4bfb-4260-417a-92a5-360d87c0b210")
+	)
+	(wire
+		(pts
+			(xy 167.64 113.4872) (xy 154.94 113.4872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd29fee-b3b1-4e60-b197-2a821ed0bd75")
+	)
+	(wire
+		(pts
+			(xy 162.56 133.8072) (xy 162.56 126.1872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e927b209-dc54-48b4-89a9-8eae19d6b7f4")
+	)
+	(wire
+		(pts
+			(xy 121.92 126.1872) (xy 114.3 126.1872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2197f7a-fd18-4845-baad-8f6986b3dbd7")
+	)
+	(wire
+		(pts
+			(xy 114.3 141.4272) (xy 114.3 154.1272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c5499d-0666-43df-9424-32da04c348f2")
+	)
+	(wire
+		(pts
+			(xy 167.64 100.7872) (xy 154.94 100.7872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5c02704-0274-4a22-b810-212b00a7f741")
+	)
+	(wire
+		(pts
+			(xy 162.56 126.1872) (xy 154.94 126.1872)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7e6ed0c-c335-4f01-80c8-1692fc2d6502")
+	)
+	(wire
+		(pts
+			(xy 121.92 116.0272) (xy 109.22 116.0272)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f95a40e7-7577-4ce7-a068-f552836ff295")
+	)
+	(wire
+		(pts
+			(xy 121.92 70.3072) (xy 109.22 70.3072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9b9d285-11dc-4728-a42a-fd5403a4073b")
+	)
+	(wire
+		(pts
+			(xy 167.64 95.7072) (xy 154.94 95.7072)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa474bf9-250c-4286-b9e9-1b83ac4b4d18")
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_P_CIRCLE")
+		(at 167.64 93.1672 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "02423ee1-56da-47f5-aadc-142a3542c934")
+		(property "Reference" "#PWR?"
+			(at 167.64 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3_P"
+			(at 171.45 93.1672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "74d1b4ed-3744-488d-94cd-2b7d145148ef")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD3V3_ETH_CIRCLE")
+		(at 109.22 103.3272 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04d7bf12-4004-4432-86f3-d81d30462580")
+		(property "Reference" "#PWR?"
+			(at 109.22 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD3V3_ETH"
+			(at 105.41 103.3272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "8551be76-b5ba-44e7-8169-1b20faf4b4d7")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_CODEC_CIRCLE")
+		(at 167.64 100.7872 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "12358005-f81f-41c9-aea4-f855ec4ea4ec")
+		(property "Reference" "#PWR?"
+			(at 167.64 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC1V8_CODEC"
+			(at 171.45 100.7872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "465f3f59-b4b1-43df-aaeb-d4e585ed097e")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 134.62 154.1272 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14ad8f65-6c13-4f9c-92a5-dd7954c50e0b")
+		(property "Reference" "#PWR?"
+			(at 134.62 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 160.4772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "7bf3a5c9-2109-4e24-9fe2-e49af92a2d8e")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE")
+		(at 167.64 95.7072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "16f5e3dd-3ca7-4e1c-83e6-787181e883f5")
+		(property "Reference" "#PWR?"
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3"
+			(at 171.45 95.7072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "8ef3a432-c6ee-409d-8b74-81d2fa6414c7")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_PMUIO_CIRCLE")
+		(at 167.64 123.6472 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18152a7e-926b-43d4-802c-c104c32d1a42")
+		(property "Reference" "#PWR?"
+			(at 167.64 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC3V3_PMUIO"
+			(at 171.45 123.6472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "8e491e37-5ce5-4f0b-8b87-15f1dcf81faf")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_P_CIRCLE")
+		(at 109.22 93.1672 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2566d7cd-0215-4aa4-99ef-480ed27a403c")
+		(property "Reference" "#PWR?"
+			(at 109.22 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8_P"
+			(at 105.41 93.1672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 93.1672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "5c8a136c-e708-4c08-86d2-62b09c16690e")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_0V9_P_CIRCLE")
+		(at 167.64 77.9272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a16d06e-a572-40f6-a383-231fbf3adfba")
+		(property "Reference" "#PWR?"
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_0V9_P"
+			(at 171.45 77.9272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b9a19616-51c7-495a-8357-3410ba70c0d0")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE")
+		(at 167.64 128.7272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ab8948c-0bec-4a7b-b891-6eaa9a682aac")
+		(property "Reference" "#PWR?"
+			(at 167.64 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8"
+			(at 171.45 128.7272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "55414228-7501-45fa-976b-8b601752dfe2")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE")
+		(at 167.64 121.1072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "44c68b1c-c688-4c61-b764-a353470255bf")
+		(property "Reference" "#PWR?"
+			(at 167.64 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3"
+			(at 171.45 121.1072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "09439b99-faf0-41ca-a625-8967486bda8f")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_VCCIO1_CIRCLE")
+		(at 109.22 131.2672 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49232e41-b262-40bf-acb0-91975621081d")
+		(property "Reference" "#PWR?"
+			(at 109.22 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC3V3_VCCIO1"
+			(at 105.41 131.2672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "5145f147-8bfb-4037-9817-73198b2db647")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD0V9_PMUIO_CIRCLE")
+		(at 109.22 123.6472 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4cc4887f-061f-447c-ad91-85b78e0955ba")
+		(property "Reference" "#PWR?"
+			(at 109.22 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD0V9_PMUIO"
+			(at 105.41 123.6472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 123.6472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "f8e59c6a-b942-4671-8224-3eec9d0120c1")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE")
+		(at 109.22 100.7872 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4fb47976-7fda-43b0-9585-3ebc84db0128")
+		(property "Reference" "#PWR?"
+			(at 109.22 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3"
+			(at 105.41 100.7872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 100.7872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "0e974fcb-8b7a-49a4-804a-5168a436478b")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_USB_CIRCLE")
+		(at 109.22 108.4072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54874e8e-ca26-43ea-b5c4-5a38a2c42f04")
+		(property "Reference" "#PWR?"
+			(at 109.22 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC1V8_USB"
+			(at 105.41 108.4072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "5930aa47-1d11-4575-b15d-e1f1457b9b06")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE")
+		(at 109.22 95.7072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "560fbab6-6a17-4868-a3a0-0d7321b3eb72")
+		(property "Reference" "#PWR?"
+			(at 109.22 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8"
+			(at 105.41 95.7072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 95.7072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b9a26b5e-a0b4-41db-ade1-133ccbe69c1c")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_ARM_P_CIRCLE")
+		(at 109.22 85.5472 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "570952bf-c969-4817-bafa-acede854f776")
+		(property "Reference" "#PWR?"
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_ARM_P"
+			(at 105.41 85.5472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "7e79bb3a-5572-4375-a973-8d0db0b4c3e5")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC12V_DCIN_CIRCLE")
+		(at 109.22 72.8472 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e1dc9e8-89a6-4bdd-9e87-f05961e6930b")
+		(property "Reference" "#PWR?"
+			(at 109.22 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC12V_DCIN"
+			(at 105.41 72.8472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "4b72a33f-49cc-4a3c-aca5-f24cb4139974")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "*:root_0_PowerMeasurement_6_*")
+		(at 124.46 60.1472 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63a168c9-0cb2-4bd0-9868-59300fc35597")
+		(property "Reference" "U9820"
+			(at 104.14 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PowerMeterage"
+			(at 104.14 60.1472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "CNN60_0R80_B406"
+			(at 124.46 60.1472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 60.1472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 60.1472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PCB FOOTPRINT" "CNN60_0R80_B406"
+			(at 0 210.0072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67fd8b25-f64f-47c9-8716-22e2c1436919")
+		)
+		(pin "2"
+			(uuid "d003d09e-6291-4a9a-83ce-ee1eb2b7740a")
+		)
+		(pin "3"
+			(uuid "09cf4379-5766-4f28-b9eb-8da5cbf154e1")
+		)
+		(pin "4"
+			(uuid "be48d4cd-148e-4aed-b605-4e00c2a4a253")
+		)
+		(pin "5"
+			(uuid "8749bf04-b8f9-4d12-8047-2ef15eeb4c43")
+		)
+		(pin "6"
+			(uuid "29dda6d2-cb4f-4258-b187-3fd1ffd090ec")
+		)
+		(pin "7"
+			(uuid "4a5ae833-bc73-4b77-84c9-c1d7f6ebad23")
+		)
+		(pin "8"
+			(uuid "c8a70b5d-33e9-4796-864f-b3dfa4511252")
+		)
+		(pin "9"
+			(uuid "31f6c79f-ffa0-4df8-9abd-0e23284cafc1")
+		)
+		(pin "10"
+			(uuid "f7602284-a51c-4b2a-9f68-71c6ab45bb84")
+		)
+		(pin "11"
+			(uuid "17801858-3bc6-45a3-93eb-ce0abc670e2b")
+		)
+		(pin "12"
+			(uuid "392288d4-7bb0-4237-b619-45d4731f3652")
+		)
+		(pin "13"
+			(uuid "05c23ba0-0988-4133-ba6d-f94a30ac3da0")
+		)
+		(pin "14"
+			(uuid "f3a265a3-2d43-4338-a4ed-2690efb0d988")
+		)
+		(pin "15"
+			(uuid "3844ab01-d3f5-4190-9139-2f9d4b5cf8ad")
+		)
+		(pin "16"
+			(uuid "76e15c6f-d6c9-4571-957b-d6ba4bb9184a")
+		)
+		(pin "17"
+			(uuid "33815093-3b5c-4ac2-a0cd-98832a54142a")
+		)
+		(pin "18"
+			(uuid "48957892-2823-403b-a0cb-60bd359da83f")
+		)
+		(pin "19"
+			(uuid "ddaf2c55-9908-4a58-bede-ec57256aca6c")
+		)
+		(pin "20"
+			(uuid "317115b1-1ae9-4230-bff8-cb07cdeebc82")
+		)
+		(pin "21"
+			(uuid "72743561-f6a2-45ee-9c3e-a065654ad630")
+		)
+		(pin "22"
+			(uuid "7c14fcf3-c140-4d23-8d38-2a8362b49e21")
+		)
+		(pin "23"
+			(uuid "28cfd20c-9990-41e6-9d19-1b636b2c95c2")
+		)
+		(pin "24"
+			(uuid "20fb9fc6-78d2-4d5c-9aec-3933783c210b")
+		)
+		(pin "25"
+			(uuid "9550baf8-1ae7-4a11-b57d-fba835231c4e")
+		)
+		(pin "26"
+			(uuid "55c5a895-eaea-46ca-b9c0-65e88d883a92")
+		)
+		(pin "27"
+			(uuid "3165542a-d691-422e-9659-d8014eff50d4")
+		)
+		(pin "28"
+			(uuid "cbc20650-b08e-4002-8948-3b6b5e503049")
+		)
+		(pin "29"
+			(uuid "97d9db31-46d1-4643-901e-193ecd39389a")
+		)
+		(pin "30"
+			(uuid "99661d78-b608-4e46-94c7-bdb9fe4c22f3")
+		)
+		(pin "31"
+			(uuid "cc4da7b9-f199-4e68-81e7-93bda676bddf")
+		)
+		(pin "32"
+			(uuid "0edcb9b3-9980-4a63-9187-733c7951b989")
+		)
+		(pin "33"
+			(uuid "8b915ad8-a4dc-432d-a9ed-1b630c8e6961")
+		)
+		(pin "34"
+			(uuid "b512bc92-d401-4b29-ae36-69a9a915aea3")
+		)
+		(pin "35"
+			(uuid "33082203-41ad-456e-8d53-4000c101c298")
+		)
+		(pin "36"
+			(uuid "1f727e7b-9c83-4b63-89fa-65fa7d7f9f5a")
+		)
+		(pin "37"
+			(uuid "7f9cdd4d-d6da-41df-bb03-d3fe9f483151")
+		)
+		(pin "38"
+			(uuid "299ea4f8-5379-4ca9-be05-2a0788b631e6")
+		)
+		(pin "39"
+			(uuid "1c5ff153-2852-42f0-a6a8-fc648f42765e")
+		)
+		(pin "40"
+			(uuid "4dbdfa2b-e3e1-41dd-bebd-9fa8387ae165")
+		)
+		(pin "41"
+			(uuid "7cfcb927-5d09-4327-adcb-09431aa2cc55")
+		)
+		(pin "42"
+			(uuid "632d9494-043c-4d01-82d9-c31d6626f35e")
+		)
+		(pin "43"
+			(uuid "69978192-f073-48e4-85b4-675ae4412471")
+		)
+		(pin "44"
+			(uuid "ef602131-0d79-4cfc-af18-33f6957de7b8")
+		)
+		(pin "45"
+			(uuid "b25fe800-67fa-47f4-a14f-30e4a8c7da0d")
+		)
+		(pin "46"
+			(uuid "9a1aa6a3-f110-4a87-813e-2ab54e0e93a9")
+		)
+		(pin "47"
+			(uuid "a81ab09d-1d45-43dd-8531-ec8eee09a2c2")
+		)
+		(pin "48"
+			(uuid "3466c82c-10b4-4b66-9385-ce63db7a2055")
+		)
+		(pin "49"
+			(uuid "2145c89d-f16a-4ac3-9af4-1e173d9516ac")
+		)
+		(pin "50"
+			(uuid "5cfc0b62-eae2-4ae4-821a-8ebb583e9992")
+		)
+		(pin "51"
+			(uuid "4324b8eb-f6dd-47a6-8fa3-511a5157fe4b")
+		)
+		(pin "52"
+			(uuid "8d70cfb2-ab77-41a6-b7fe-16804c950e0c")
+		)
+		(pin "53"
+			(uuid "1708cc4d-a463-49e5-9e26-408e3860d5ed")
+		)
+		(pin "54"
+			(uuid "1c93702b-aa3e-4e2f-8cdb-8d640521af07")
+		)
+		(pin "55"
+			(uuid "34f20e7e-f272-4247-88ce-0f4ab069a468")
+		)
+		(pin "56"
+			(uuid "577c4e04-4847-4614-9b45-869c38661448")
+		)
+		(pin "57"
+			(uuid "b9e764c1-d974-4169-9913-4f0fbf625d01")
+		)
+		(pin "58"
+			(uuid "261081a6-978d-4a52-8b81-abc0e61157c7")
+		)
+		(pin "59"
+			(uuid "f48f3d77-71cc-487c-a058-0a6994492e63")
+		)
+		(pin "60"
+			(uuid "e98c526a-f76f-433f-8c03-2334da9bcb4f")
+		)
+		(pin "61"
+			(uuid "ba2dbad7-087c-4aee-9353-005a0733a97a")
+		)
+		(pin "62"
+			(uuid "6b046bae-ab37-42a4-b41e-471efa3eadd5")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "U9820")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_OTP_CIRCLE")
+		(at 167.64 116.0272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65d67ac7-1f8a-4f2b-8054-59fe9beed4ba")
+		(property "Reference" "#PWR?"
+			(at 167.64 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC1V8_OTP"
+			(at 171.45 116.0272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "991bd5dd-8eb8-41c2-8252-c9dfa1494967")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_RTC_CIRCLE")
+		(at 109.22 77.9272 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6939d94f-f7b0-49ed-a063-ec13b47a8d17")
+		(property "Reference" "#PWR?"
+			(at 109.22 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_RTC"
+			(at 105.41 77.9272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 77.9272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "4c75074c-dc79-4e3b-84d9-8cba99430927")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD1V8_PLL_CIRCLE")
+		(at 109.22 116.0272 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "827ac0c1-9377-486b-bd74-aa3352ffc101")
+		(property "Reference" "#PWR?"
+			(at 109.22 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD1V8_PLL"
+			(at 105.41 116.0272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 116.0272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "8aaacadd-a371-42c2-ac91-c4c5499402c5")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC5V0_SYS_CIRCLE")
+		(at 167.64 72.8472 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82cbb9ed-1506-4ec1-900f-e52a28f46e6c")
+		(property "Reference" "#PWR?"
+			(at 167.64 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC5V0_SYS"
+			(at 171.45 72.8472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 72.8472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "451a3afa-6863-40c6-bfbf-1e0ad3fbe767")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 114.3 154.1272 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "88c4bef3-0bed-409e-b368-21ff8a740b82")
+		(property "Reference" "#PWR?"
+			(at 114.3 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 160.4772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "70f85959-216d-49c6-a17b-1de6935c182b")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC1V8_VCCIO7/MIPI_CIRCLE")
+		(at 167.64 131.2672 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a4a175c6-b63a-4062-b671-c6462b212d39")
+		(property "Reference" "#PWR?"
+			(at 167.64 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC1V8_VCCIO7/MIPI"
+			(at 171.45 131.2672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 131.2672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "98a16313-0dfb-4e9f-bda9-e020d5251302")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC5V0_SYS_P_CIRCLE")
+		(at 167.64 70.3072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4ffc3c3-f8ec-4e9b-ae76-d23d98060e11")
+		(property "Reference" "#PWR?"
+			(at 167.64 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC5V0_SYS_P"
+			(at 171.45 70.3072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "194b6f52-4464-4f59-b8f2-95cb46a28497")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE")
+		(at 167.64 113.4872 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b603d562-50b0-4e52-9943-0251da41e294")
+		(property "Reference" "#PWR?"
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8"
+			(at 171.45 113.4872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "a90b4f32-6125-4b6e-aa66-4ba324695ab5")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_0V9_CIRCLE")
+		(at 109.22 121.1072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bc570719-99f1-4216-8a19-1208a3be862c")
+		(property "Reference" "#PWR?"
+			(at 109.22 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_0V9"
+			(at 105.41 121.1072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 121.1072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "1547f64d-0fca-45ee-b873-7c66976ad06d")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 134.62 52.5272 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bdc8bec7-ff5e-473e-a3c9-6440bd587050")
+		(property "Reference" "#PWR?"
+			(at 134.62 52.5272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 46.1772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 52.5272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 52.5272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 52.5272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "e6eddd0c-1e29-450a-9f4c-212c5b4e60ee")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_DDR_P_CIRCLE")
+		(at 167.64 85.5472 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c4d95b4a-ad5f-4204-8d1e-538ec95d5495")
+		(property "Reference" "#PWR?"
+			(at 167.64 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_DDR_P"
+			(at 171.45 85.5472 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 85.5472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "74cfbaa9-f081-43fa-bf12-69b123ba5afd")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE")
+		(at 109.22 105.8672 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7243582-c7fb-4343-9c81-d7d17777bb01")
+		(property "Reference" "#PWR?"
+			(at 109.22 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8"
+			(at 105.41 105.8672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c082686f-d218-455d-af7d-c919aa38154f")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:AVDD1V8_CODEC_CIRCLE")
+		(at 167.64 103.3272 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cddf7a79-5a03-4002-8631-71a87393ab3b")
+		(property "Reference" "#PWR?"
+			(at 167.64 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD1V8_CODEC"
+			(at 171.45 103.3272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 103.3272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "1007a3a5-606d-43a2-a922-d1126f42a1b4")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE")
+		(at 109.22 128.7272 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce60f2fb-c124-4da0-9553-aaceb23481ce")
+		(property "Reference" "#PWR?"
+			(at 109.22 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3"
+			(at 105.41 128.7272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 128.7272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "540fef52-5c23-4ee2-802a-d679d6528c68")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC12V_DCIN_P_CIRCLE")
+		(at 109.22 70.3072 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cfe6bd26-035f-494b-b52a-9e6797c3f07b")
+		(property "Reference" "#PWR?"
+			(at 109.22 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC12V_DCIN_P"
+			(at 105.41 70.3072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 70.3072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "97fbf489-d8c9-4bb1-8c7e-8daa876565dd")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_1V8_CIRCLE")
+		(at 109.22 113.4872 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d38379ac-be4f-46fd-95fe-e896daa43b82")
+		(property "Reference" "#PWR?"
+			(at 109.22 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_1V8"
+			(at 105.41 113.4872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 113.4872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "a44cc4bd-e7fc-4797-9343-424da4787176")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_0V9_CIRCLE")
+		(at 167.64 80.4672 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3cbfc9a-ac79-4be9-ae7d-2e1c0f4559e7")
+		(property "Reference" "#PWR?"
+			(at 167.64 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_0V9"
+			(at 171.45 80.4672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "0f161fc6-eb9c-4a25-9637-ea10b7d31b77")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VDD_ARM_CIRCLE")
+		(at 109.22 88.0872 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d8800905-42c7-45e2-ad9c-ea2c4c1945d8")
+		(property "Reference" "#PWR?"
+			(at 109.22 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_ARM"
+			(at 105.41 88.0872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "c8c7a53c-3293-4999-bd0f-7e0c60aef8fb")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_USB_CIRCLE")
+		(at 167.64 108.4072 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e5677f6f-e071-45b2-bafc-27015a2adba3")
+		(property "Reference" "#PWR?"
+			(at 167.64 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC3V3_USB"
+			(at 171.45 108.4072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 108.4072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "743b28a6-b48b-49d2-b41e-d2f129fddfb6")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_DDR_CIRCLE")
+		(at 167.64 88.0872 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ecc1a5eb-877b-4da0-b933-d2eed7d4d59d")
+		(property "Reference" "#PWR?"
+			(at 167.64 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_DDR"
+			(at 171.45 88.0872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 88.0872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "0bf110d4-fcdf-47ac-8b26-55255216cc65")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC_3V3_CIRCLE")
+		(at 167.64 105.8672 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7a9cd42-e600-44a6-9f89-75dea6a3f1ed")
+		(property "Reference" "#PWR?"
+			(at 167.64 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC_3V3"
+			(at 171.45 105.8672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 105.8672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "75fc801b-32a4-491f-8207-e2343e51b9e2")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:VCC3V3_RTC_CIRCLE")
+		(at 109.22 80.4672 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fae3f19c-7796-4154-9dba-58c3c7ffabf1")
+		(property "Reference" "#PWR?"
+			(at 109.22 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC3V3_RTC"
+			(at 105.41 80.4672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 80.4672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "661ee051-87a4-4b69-b906-45ac420ea80a")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RV1106G_EVB1_V11_20220401LX-altium-import:GND_POWER_GROUND")
+		(at 162.56 154.1272 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fd0bb7d2-c275-4676-b994-0b9a2f5551c1")
+		(property "Reference" "#PWR?"
+			(at 162.56 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 160.4772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 154.1272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "34fb8da8-aa1d-491d-9604-b13b7ebf9526")
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821/51bff7f0-34c1-425e-a0a6-4afc1decf913"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

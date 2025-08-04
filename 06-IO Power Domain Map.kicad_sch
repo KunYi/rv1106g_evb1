@@ -1,0 +1,1032 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9608d0a6-f0f5-4560-8f3d-c954185021f3")
+	(paper "User" 326.7 231)
+	(lib_symbols)
+	(rectangle
+		(start 298.704 24.638)
+		(end 26.924 131.318)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 591db220-c204-4147-9b6d-977b41a3c4a3)
+	)
+	(text "VCCIO1"
+		(exclude_from_sim no)
+		(at 32.004 66.294 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "01208160-f18d-4ba9-b87d-c9636f6bdca9")
+	)
+	(text "Group GPIO4_C"
+		(exclude_from_sim no)
+		(at 57.404 76.454 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "06674655-8de0-4770-9256-da4181a6b3aa")
+	)
+	(text "1.8/3.3V"
+		(exclude_from_sim no)
+		(at 209.804 117.094 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "0cfeeed7-0f31-48c7-8d33-ba2903ef38a0")
+	)
+	(text "VCCIO7"
+		(exclude_from_sim no)
+		(at 32.004 127.254 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f8478d8-db74-4531-a947-83b889e5cbd8")
+	)
+	(text "1.8V"
+		(exclude_from_sim no)
+		(at 105.664 43.434 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "214ef8de-8781-437d-aa1e-ba40cd05d472")
+	)
+	(text "1.8V"
+		(exclude_from_sim no)
+		(at 209.804 127.254 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "22832764-6ee4-418b-a91c-808b8482b2e9")
+	)
+	(text "Group GPIO0_A"
+		(exclude_from_sim no)
+		(at 57.404 56.134 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "22d1a346-a44b-419c-aaf4-54e9ca396fc7")
+	)
+	(text "1.8V"
+		(exclude_from_sim no)
+		(at 209.804 76.454 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "30fe2a08-842a-4a75-9dcd-fc15c3523516")
+	)
+	(text "VCC_3V3"
+		(exclude_from_sim no)
+		(at 141.224 56.134 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "35c6d353-99da-4cd0-b80e-f18334d7f8bc")
+	)
+	(text "Remark"
+		(exclude_from_sim no)
+		(at 247.904 38.354 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "48972f70-4c33-42f5-9c41-434a99767e6b")
+	)
+	(text "Group GPIO4_AB"
+		(exclude_from_sim no)
+		(at 57.404 86.614 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "49d3860f-3698-4295-b1fc-2e30dc2ff199")
+	)
+	(text "VCCIO6"
+		(exclude_from_sim no)
+		(at 32.004 117.094 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "4cd2af8b-448a-4ab1-bea2-2955bec23941")
+	)
+	(text "Group GPIO3_A"
+		(exclude_from_sim no)
+		(at 57.404 96.774 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d233026-bb67-4dd9-864d-d0533bc677cb")
+	)
+	(text "3.3V"
+		(exclude_from_sim no)
+		(at 209.804 56.134 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d8ba7c3-a906-4bec-beb5-cbaa5f7c3f56")
+	)
+	(text "VCCIO3"
+		(exclude_from_sim no)
+		(at 32.004 86.614 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "5fb10604-4fe8-4053-b64c-2a118778da21")
+	)
+	(text "Group GPIO1_CD"
+		(exclude_from_sim no)
+		(at 57.404 117.094 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "6cff3f1d-0428-48b3-9784-4ad9cd0f3b69")
+	)
+	(text "Voltage"
+		(exclude_from_sim no)
+		(at 209.804 43.434 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "703a13d0-5fd4-4ba5-960d-b771f6bcf9c0")
+	)
+	(text "3.3V"
+		(exclude_from_sim no)
+		(at 209.804 66.294 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e5528f7-0746-40d3-ae36-13ac1d4a1982")
+	)
+	(text "1.8/3.3V"
+		(exclude_from_sim no)
+		(at 209.804 106.934 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "8fd5fb01-0565-435c-9c5d-acbc3736b3ea")
+	)
+	(text "Group GPIO2_AB"
+		(exclude_from_sim no)
+		(at 57.404 106.934 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "95730d6c-dd42-469c-a1c0-80ac88f88728")
+	)
+	(text "VCC_1V8"
+		(exclude_from_sim no)
+		(at 141.224 127.254 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "a33b5cc6-6460-4827-b4a8-b0db5b2c179e")
+	)
+	(text "VCC_3V3"
+		(exclude_from_sim no)
+		(at 141.224 66.294 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae408ba2-c5ba-4c66-b423-baab613bca16")
+	)
+	(text "VCCIO5"
+		(exclude_from_sim no)
+		(at 32.004 106.934 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4ec247a-d1a1-4706-b529-6f9b80d8b832")
+	)
+	(text "VCC_3V3"
+		(exclude_from_sim no)
+		(at 141.224 106.934 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "beb8f1b5-1a90-4a3d-a0fe-001596f5ae4c")
+	)
+	(text "1.8/3.3V"
+		(exclude_from_sim no)
+		(at 209.804 86.614 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "c352d448-062b-4d07-805a-9d5f0a9d4026")
+	)
+	(text "PMUIO"
+		(exclude_from_sim no)
+		(at 32.004 56.134 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cadc2150-c54a-4b27-945c-b7b713b8d051")
+	)
+	(text "VCCIO2"
+		(exclude_from_sim no)
+		(at 32.004 76.454 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0068026-9e70-4719-8af5-14416c9f8301")
+	)
+	(text "VCCIO_SD"
+		(exclude_from_sim no)
+		(at 141.224 96.774 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "d4cec5de-e34b-40a5-a3ce-b46b25cbd557")
+	)
+	(text "3.3V"
+		(exclude_from_sim no)
+		(at 123.444 43.434 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "dcf26267-cb6b-4c79-bde8-74c3150423cf")
+	)
+	(text "IO Power Domain Map"
+		(exclude_from_sim no)
+		(at 120.904 21.59 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ded81c2f-9380-49ec-8b9d-8339ddd49887")
+	)
+	(text "VCCIO4"
+		(exclude_from_sim no)
+		(at 32.004 96.774 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2c88c47-04ca-4a2b-a09a-e6856d75204a")
+	)
+	(text "VCC_1V8"
+		(exclude_from_sim no)
+		(at 141.224 76.454 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "e4345b5a-d300-4e13-9295-6e87a11e593f")
+	)
+	(text "VCCIO_FLASH"
+		(exclude_from_sim no)
+		(at 141.224 86.614 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "e447f4e8-636e-4565-9d58-bdba48cbb1e2")
+	)
+	(text "Group GPIO1_AB"
+		(exclude_from_sim no)
+		(at 57.404 66.294 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "eac02c05-ad8d-493f-a0f8-6a18d2e55161")
+	)
+	(text "Group GPIO3_BCD"
+		(exclude_from_sim no)
+		(at 57.404 127.254 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "efc081e5-8331-4c7b-8339-1c1f7cac410c")
+	)
+	(text "1.8/3.3V"
+		(exclude_from_sim no)
+		(at 209.804 96.774 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0d85772-a9bf-4d9a-a7a5-6168364d40af")
+	)
+	(text "VCC_3V3"
+		(exclude_from_sim no)
+		(at 141.224 117.094 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "f67d661e-ca80-4a21-9ca2-0dc45f425c0f")
+	)
+	(text_box " IO\nGroup"
+		(exclude_from_sim no)
+		(at 71.12 39.37 0)
+		(size -11.176 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "11d27cd6-65c2-4fbd-9d1f-ffb84806e082")
+	)
+	(text_box "Net Name of\nPower Supply\n"
+		(exclude_from_sim no)
+		(at 169.164 46.99 0)
+		(size -25.4 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "4e1e32d6-2dae-49c2-b472-528f3079680a")
+	)
+	(text_box "Default Actual assigned \nIO Domain Voltage"
+		(exclude_from_sim no)
+		(at 213.868 34.29 0)
+		(size -49.784 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "63e7f33f-2f36-487c-80d4-ce120f5b5430")
+	)
+	(text_box "Support of\nIO Voltage"
+		(exclude_from_sim no)
+		(at 129.54 34.29 0)
+		(size -21.336 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "88e2484c-b352-4cfe-81de-582aa2951fa0")
+	)
+	(text_box "Power \nSource"
+		(exclude_from_sim no)
+		(at 195.072 46.99 0)
+		(size -13.208 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "9153d5a2-2e56-42ef-bb6a-0cbea5a435a4")
+	)
+	(text_box "  IO\nDomain"
+		(exclude_from_sim no)
+		(at 45.212 39.37 0)
+		(size -13.208 -7.112)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "ea60ca3c-2e2e-449a-90d2-ca49d8e8251b")
+	)
+	(polyline
+		(pts
+			(xy 124.714 55.118) (xy 125.984 56.388)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "0f1861b8-fd7b-4e65-8422-cc73be3d8cf3")
+	)
+	(polyline
+		(pts
+			(xy 108.204 107.188) (xy 110.744 104.648)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "198d67af-ac66-4a72-b58e-bb5e940a3825")
+	)
+	(polyline
+		(pts
+			(xy 125.984 66.548) (xy 128.524 64.008)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "1fb2e486-71ae-47a6-99cc-7f84586903b4")
+	)
+	(polyline
+		(pts
+			(xy 26.924 110.998) (xy 298.704 110.998)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2070e62a-ef4a-4b6e-9978-dd11e670de6d")
+	)
+	(polyline
+		(pts
+			(xy 125.984 117.348) (xy 128.524 114.808)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "27c3669c-9520-4428-90bf-64bdd926566a")
+	)
+	(polyline
+		(pts
+			(xy 230.124 24.638) (xy 230.124 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2b60e9cb-9d70-4a54-bc22-67d8cc684845")
+	)
+	(polyline
+		(pts
+			(xy 26.924 50.038) (xy 298.704 50.038)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2c91c7e6-9bdd-4a79-9bf8-09d776c869d9")
+	)
+	(polyline
+		(pts
+			(xy 125.984 86.868) (xy 128.524 84.328)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2ca7799c-2a42-4f9c-97ab-89cf9f8cac72")
+	)
+	(polyline
+		(pts
+			(xy 125.984 107.188) (xy 128.524 104.648)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "3526e60d-8d99-4cdc-a473-5e7b457e7517")
+	)
+	(polyline
+		(pts
+			(xy 100.584 37.338) (xy 230.124 37.338)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "3bdf4a44-8eb9-4eb5-b78b-0004d756b984")
+	)
+	(polyline
+		(pts
+			(xy 124.714 85.598) (xy 125.984 86.868)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "3ddfe859-43f4-4db6-a4ca-cc2031e63914")
+	)
+	(polyline
+		(pts
+			(xy 100.584 24.638) (xy 100.584 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "3f401d9a-38bd-4006-9ba9-cbc9fef4a490")
+	)
+	(polyline
+		(pts
+			(xy 106.934 75.438) (xy 108.204 76.708)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "5056ff08-ecfe-481a-a806-21f20977f801")
+	)
+	(polyline
+		(pts
+			(xy 26.924 121.158) (xy 298.704 121.158)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "5621913e-be0d-4eff-badf-91d8b93296a4")
+	)
+	(polyline
+		(pts
+			(xy 204.724 37.338) (xy 204.724 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "59271a67-84ea-4c1e-ae4a-29979ad04d92")
+	)
+	(polyline
+		(pts
+			(xy 124.714 116.078) (xy 125.984 117.348)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "5acceb82-6f24-48da-9d42-73a4965412c6")
+	)
+	(polyline
+		(pts
+			(xy 174.244 37.338) (xy 174.244 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "5bb36818-86b1-425a-938c-2fbd6c3e8d5e")
+	)
+	(polyline
+		(pts
+			(xy 106.934 85.598) (xy 108.204 86.868)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "5c582e9a-7f6a-4dba-ad24-4419adebc646")
+	)
+	(polyline
+		(pts
+			(xy 108.204 86.868) (xy 110.744 84.328)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "63f90e76-7f60-4fd8-9cbb-5ad1a83b6a62")
+	)
+	(polyline
+		(pts
+			(xy 26.924 90.678) (xy 298.704 90.678)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "68058961-97d3-4967-8cbd-42360dce0366")
+	)
+	(polyline
+		(pts
+			(xy 108.204 127.508) (xy 110.744 124.968)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "68205462-18e4-41ae-8081-fb2f9ca8d553")
+	)
+	(polyline
+		(pts
+			(xy 125.984 56.388) (xy 128.524 53.848)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "699480cb-cdb5-4d13-a9e4-91fd007ce2f3")
+	)
+	(polyline
+		(pts
+			(xy 108.204 97.028) (xy 110.744 94.488)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "6af3eb0e-6fba-4212-aee0-b12ece7790aa")
+	)
+	(polyline
+		(pts
+			(xy 124.714 65.278) (xy 125.984 66.548)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "6cc0bcd2-53ef-4979-b30f-6ec84317f185")
+	)
+	(polyline
+		(pts
+			(xy 108.204 117.348) (xy 110.744 114.808)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "7d9b8790-a07e-471a-b38e-10b6a738a3d2")
+	)
+	(polyline
+		(pts
+			(xy 26.924 80.518) (xy 298.704 80.518)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "8396a390-f146-497a-8bc2-7f0d5732fb96")
+	)
+	(polyline
+		(pts
+			(xy 124.714 105.918) (xy 125.984 107.188)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "83cb9492-53dd-4205-910c-54423bfde0e8")
+	)
+	(polyline
+		(pts
+			(xy 124.714 95.758) (xy 125.984 97.028)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "861a779a-579f-4a80-80a1-631416be81bf")
+	)
+	(polyline
+		(pts
+			(xy 108.204 76.708) (xy 110.744 74.168)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "87564815-5f3a-4b06-b77f-bfd23cb32726")
+	)
+	(polyline
+		(pts
+			(xy 26.924 100.838) (xy 298.704 100.838)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "88e39837-9ba4-46a0-be31-cf29f6efce6b")
+	)
+	(polyline
+		(pts
+			(xy 106.934 95.758) (xy 108.204 97.028)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "9815b9e4-0fba-4b5f-9cca-27b4dd7aad2e")
+	)
+	(polyline
+		(pts
+			(xy 118.364 37.338) (xy 118.364 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "9dd3294b-498a-4776-b184-d16a8280921d")
+	)
+	(polyline
+		(pts
+			(xy 136.144 24.638) (xy 136.144 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "a0df3de5-144e-4cf4-be2d-55a6c5352d92")
+	)
+	(polyline
+		(pts
+			(xy 106.934 116.078) (xy 108.204 117.348)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "a75cdae2-400f-4da2-bb9f-ecb1c5026a69")
+	)
+	(polyline
+		(pts
+			(xy 106.934 105.918) (xy 108.204 107.188)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "bae1c880-cf1d-40bb-9a18-b00b2893b4fa")
+	)
+	(polyline
+		(pts
+			(xy 26.924 70.358) (xy 298.704 70.358)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "bfc075fb-dc3a-4ae9-9fa2-ce0c66a3dcef")
+	)
+	(polyline
+		(pts
+			(xy 52.324 24.638) (xy 52.324 131.318)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "cc6ccedf-6ad1-4c09-aed8-f128cdcadfed")
+	)
+	(polyline
+		(pts
+			(xy 106.934 126.238) (xy 108.204 127.508)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "d1a0e5fc-bee3-493c-9c3e-b7b083595adf")
+	)
+	(polyline
+		(pts
+			(xy 26.924 60.198) (xy 298.704 60.198)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "dd22c589-b23f-43fd-8f87-63db10496d69")
+	)
+	(polyline
+		(pts
+			(xy 125.984 97.028) (xy 128.524 94.488)
+		)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "e1f3c597-d557-4dfd-9eb7-d549e0bd141f")
+	)
+)

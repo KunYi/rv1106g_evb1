@@ -1,0 +1,1148 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8147fb48-b8ce-41b6-8257-e0df3b563821")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 102.87 119.38)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b36e1af-4e5e-4642-a266-6d42937de9f1")
+		(property "Sheetname" "53. VO-BT1120_RGB LCM"
+			(at 102.87 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "53-VO-BT1120_RGB LCM.kicad_sch"
+			(at 102.87 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 59.69)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f366280-6c3c-4e9e-b300-8f33669e6757")
+		(property "Sheetname" "02. Revision History"
+			(at 53.34 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02-Revision History.kicad_sch"
+			(at 53.34 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 140.97)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0fec3465-10f7-41aa-a153-5cd8a73afb06")
+		(property "Sheetname" "48. VI-Zoom_Iris Connect"
+			(at 52.07 140.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "48-VI-Zoom_Iris Connect.kicad_sch"
+			(at 52.07 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 39.37)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38e5ff4e-f3db-4813-a727-7fff7a30c3bd")
+		(property "Sheetname" "00. Cover"
+			(at 53.34 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "00-Cover.kicad_sch"
+			(at 53.34 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 48.26)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c28095a-1042-47c4-b01b-ccaaf89fc0d0")
+		(property "Sheetname" "21. Power-System"
+			(at 160.02 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "21-Power-System.kicad_sch"
+			(at 160.02 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 58.42)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4025d291-2fb9-4633-8fd0-7cd75dbc08ad")
+		(property "Sheetname" "25. USB Port"
+			(at 160.02 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "25-USB Port.kicad_sch"
+			(at 160.02 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 139.7)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51bff7f0-34c1-425e-a0a6-4afc1decf913")
+		(property "Sheetname" "97. Power Test"
+			(at 208.28 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "97-Power Test.kicad_sch"
+			(at 208.28 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 38.1)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "61050368-2d48-45d6-94d5-685b946e422e")
+		(property "Sheetname" "40. Flash-eMMC Flash"
+			(at 207.01 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "40-Flash-eMMC Flash.kicad_sch"
+			(at 207.01 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 80.01)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6350b8ff-77f6-4c90-9969-12ebd19676de")
+		(property "Sheetname" "04. Power Diagram and Sequence"
+			(at 53.34 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04-Power Diagram and Sequence.kicad_sch"
+			(at 53.34 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 48.26)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "69a88965-e3c0-4e04-98c3-5d75fcd9dd1e")
+		(property "Sheetname" "42. Flash-Micro-SD Card"
+			(at 207.01 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "42-Flash-Micro-SD Card.kicad_sch"
+			(at 207.01 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 38.1)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7af6e86b-e226-4336-b2cd-6fcb386f4617")
+		(property "Sheetname" "20. Power-DC IN"
+			(at 160.02 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "20-Power-DC IN.kicad_sch"
+			(at 160.02 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 90.17)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e2e07f5-50ca-4d05-b222-106723c4c97b")
+		(property "Sheetname" "06. IO Power Domain Map"
+			(at 53.34 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06-IO Power Domain Map.kicad_sch"
+			(at 53.34 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 49.53)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8324baa3-82af-41d1-b1a2-cdc0c986a9ae")
+		(property "Sheetname" "01. Index and Notes"
+			(at 53.34 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01-Index and Notes.kicad_sch"
+			(at 53.34 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 130.81)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "886532dd-a269-4ace-a1b6-5b384026ab7a")
+		(property "Sheetname" "60. WIFI-SDIO_1T1R"
+			(at 102.87 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "60-WIFI-SDIO_1T1R.kicad_sch"
+			(at 102.87 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 129.54)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d544b53-3cf2-4ab0-984c-d593526defae")
+		(property "Sheetname" "93. UART_JTAG Debug Port"
+			(at 208.28 128.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "93-UART_JTAG Debug Port.kicad_sch"
+			(at 208.28 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 69.85)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ee266ab-9f6b-4559-9cdf-02ef8419fcac")
+		(property "Sheetname" "03. Block Diagram"
+			(at 53.34 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03-Block Diagram.kicad_sch"
+			(at 53.34 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 140.97)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9f5f5455-a574-45f6-87ed-70ce490ece83")
+		(property "Sheetname" "68. Ethernet-FEPHY_Embed"
+			(at 102.87 140.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "68-Ethernet-FEPHY_Embed.kicad_sch"
+			(at 102.87 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 149.86)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a816ca81-3844-4684-94a0-6f7985cde7a3")
+		(property "Sheetname" "99. Mark_Hole"
+			(at 208.28 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "99-Mark_Hole.kicad_sch"
+			(at 208.28 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 130.81)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ae4c5bd8-5da6-4663-a2b9-657ce496e3e7")
+		(property "Sheetname" "47. VI-Camera_MIPI-CSI"
+			(at 52.07 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "47-VI-Camera_MIPI-CSI.kicad_sch"
+			(at 52.07 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 69.85)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ae8beeb1-134d-4495-80fc-0c6094025e66")
+		(property "Sheetname" "13. RV1106G SDMMC1_LCD_VICAP_MIPI"
+			(at 102.87 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "13-RV1106G SDMMC1_LCD_VICAP_MIPI.kicad_sch"
+			(at 102.87 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 49.53)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1ec655f-2122-40e4-b019-bd9e6c26ed59")
+		(property "Sheetname" "11. RV1106G OSC_RTC_PMUIO_VCCIO"
+			(at 102.87 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "11-RV1106G OSC_RTC_PMUIO_VCCIO.kicad_sch"
+			(at 102.87 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 120.65)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b51ba25d-f29b-490a-ae81-a3376e0d6572")
+		(property "Sheetname" "46. VI-Camera_CIF"
+			(at 52.07 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "46-VI-Camera_CIF.kicad_sch"
+			(at 52.07 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 119.38)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bbf48a48-b923-4a53-80db-a157fee56081")
+		(property "Sheetname" "70. Audio Port"
+			(at 160.02 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "70-Audio Port.kicad_sch"
+			(at 160.02 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 58.42)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0f44566-ed5b-427d-9746-9c56f95cb038")
+		(property "Sheetname" "43. Flash-SPI Flash"
+			(at 207.01 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "43-Flash-SPI Flash.kicad_sch"
+			(at 207.01 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 39.37)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1ff1cd0-3e93-42f1-9b21-ee0e73aacf3b")
+		(property "Sheetname" "10. RV1106G Power_Codec_ETH_USB"
+			(at 102.87 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "10-RV1106G Power_Codec_ETH_USB.kicad_sch"
+			(at 102.87 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 59.69)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e43ef204-e60a-4027-9387-0737280de5df")
+		(property "Sheetname" "12. RV1106G ADC_FLASH_SDMMC0"
+			(at 102.87 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "12-RV1106G ADC_FLASH_SDMMC0.kicad_sch"
+			(at 102.87 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 119.38)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7c15d45-eb06-4e23-84c5-d51f231e9a51")
+		(property "Sheetname" "92. Key Array"
+			(at 208.28 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "92-Key Array.kicad_sch"
+			(at 208.28 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RV1106G_EVB1_V11_20220401LX"
+				(path "/8147fb48-b8ce-41b6-8257-e0df3b563821"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "#")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,285 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a16f6504-9c29-4b66-ace3-e40603b5faf7")
+	(paper "User" 326.7 231)
+	(lib_symbols)
+	(rectangle
+		(start 288.29 25.654)
+		(end 36.83 175.514)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bfa83f1d-d7a6-45cf-8626-6ad8cd105c95)
+	)
+	(text "2022.04.02"
+		(exclude_from_sim no)
+		(at 67.31 77.47 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "2459caa1-6d81-4e99-a742-5e5261c2f290")
+	)
+	(text "V1.0"
+		(exclude_from_sim no)
+		(at 44.45 44.45 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b10e039-700f-4c68-a2b0-5573c1aab4f3")
+	)
+	(text "Version"
+		(exclude_from_sim no)
+		(at 41.91 34.29 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "50dd4341-7f43-4aea-8916-27d709f1fb1a")
+	)
+	(text "Linxu"
+		(exclude_from_sim no)
+		(at 100.33 44.45 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "6dd589c2-b630-41d4-b641-280effc1eca3")
+	)
+	(text "Linxu"
+		(exclude_from_sim no)
+		(at 100.33 77.47 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "70d16ceb-28c3-4266-a03e-96a9feae12c0")
+	)
+	(text "Approved"
+		(exclude_from_sim no)
+		(at 265.43 34.29 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "747e08d1-380c-438c-a38c-5083fe7d2fdd")
+	)
+	(text "2022.01.11"
+		(exclude_from_sim no)
+		(at 67.31 44.45 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e099f38-af19-4de8-a9c2-820c55f6e702")
+	)
+	(text "Change Note"
+		(exclude_from_sim no)
+		(at 168.91 34.29 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "9af00cd5-29f8-4a76-adb1-1b1d95dee2a1")
+	)
+	(text "First edition;"
+		(exclude_from_sim no)
+		(at 125.73 44.45 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "a78a33bb-7721-4535-bee1-2e1302fbbac5")
+	)
+	(text "Date"
+		(exclude_from_sim no)
+		(at 72.39 34.29 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbf1f8b5-a93f-47ea-b279-7fe5cc761eec")
+	)
+	(text "Revision History"
+		(exclude_from_sim no)
+		(at 133.35 22.606 0)
+		(effects
+			(font
+				(size 3.556 3.556)
+				(thickness 0.7112)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd7d6688-1dc2-4e7b-b368-797e116fd46a")
+	)
+	(text "V1.1"
+		(exclude_from_sim no)
+		(at 44.45 77.47 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left bottom)
+		)
+		(uuid "c6819f69-4e04-4e6f-8b7a-55d236621282")
+	)
+	(text "Author"
+		(exclude_from_sim no)
+		(at 100.33 34.29 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "fcc7a056-54ff-4cdd-a443-ee3beb1d7318")
+	)
+	(text_box "1.Update RV1106G symbol;\n2.Add C1029/C1030/R6020/C6011-C6016/R9202;\n3.Modify some GPIO net multifunction about GPIO0_A0/GPIO0_A2/\n  GPIO0_A5/GPIO0_A6/GPIO1_A3/GPIO1_A4/GPIO1_B0;\n4.Change netname RESET to NPOR;\n5.Change C2000/C2002/C2007 to 100nF/25V/C0402;\n6.Change C9300/C9306/C9309 to 10uF/10V/C0603;\n7.Change C2003/C2006/C9301 to 10uF/25V/C0805;\n8.Change C2001 to 120uF/E_C6;\n9.Change R2000 to 0.02R/R0805;\n10.Change J2500 to Micro-B port，and delete USB power circuit;\n11.Change R2118/R2124 to 10K;\n12.Change R2105/R2112 to 220K;\n13.Change C7001/C7002 to 100nF;\n14.Change FB7000/FB7001 to 0R;\n15.Change R7001/R7002 to 12K;\n16.Connect R6012 to VCCIO_VCCIO5;\n17.Connect R2117 to VDD_0V9_P and VDD_ARM_P;\n18.Connect R9314 to VCC_3V3_P;\n19.Modify C2130 to DNP;\n20.Modify EMMC circuit resistors to DNP;\n21.Modify LCD circuit resistors to DNP;\n22.Modify CIF circuit resistors to DNP;"
+		(exclude_from_sim no)
+		(at 252.73 132.842 0)
+		(size -127 -81.788)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left top)
+		)
+		(uuid "7519ffd8-92d8-49f9-9e9b-fe22acf94db7")
+	)
+	(polyline
+		(pts
+			(xy 120.65 25.654) (xy 120.65 175.514)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "429cf275-9f3c-4d33-a162-703a7e7d9a9c")
+	)
+	(polyline
+		(pts
+			(xy 260.35 25.654) (xy 260.35 175.514)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "45fd1f4a-b43d-479e-bb47-1970a3f0b51d")
+	)
+	(polyline
+		(pts
+			(xy 92.71 25.654) (xy 92.71 175.514)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "88d18f14-bf90-4437-8c7a-8aed6a6ed77b")
+	)
+	(polyline
+		(pts
+			(xy 36.83 38.354) (xy 288.29 38.354)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "b4ad15c0-5114-4199-9e26-3bc4f28afb36")
+	)
+	(polyline
+		(pts
+			(xy 62.23 25.654) (xy 62.23 175.514)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "c14a3402-d20c-4906-a7c2-b7be884f3b7a")
+	)
+	(polyline
+		(pts
+			(xy 36.83 48.514) (xy 288.29 48.514)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "d1c8abd6-bb1f-4d59-98cc-07be2a0af047")
+	)
+	(polyline
+		(pts
+			(xy 36.83 127.254) (xy 288.29 127.254)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "da7455bc-08ca-4374-a6bb-c878be325b23")
+	)
+	(polyline
+		(pts
+			(xy 36.83 145.034) (xy 288.29 145.034)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "e4ac345a-2d57-46cf-9e5e-53422b7c6b56")
+	)
+)
